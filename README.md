@@ -1,4 +1,4 @@
-## Hola soy Anyelo Gomez 🕵️‍♂️✒🇨🇴
+## Hola soy Anyelo Gomez 🕵️‍♂️✒
 
 <!--
 **aegpgrafologo/aegpgrafologo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
