@@ -6,11 +6,3 @@
 
 _Amplia experiencia profesional en Investigación Criminal, manejo, recolección, preservación y procesamiento de Elementos Materiales Probatorios._
 >Conocimientos en las normas técnicas NTC-ISO/IEC 17020 y NTC-ISO/IEC 17025 :bookmark_tabs:.
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
-
-
-
