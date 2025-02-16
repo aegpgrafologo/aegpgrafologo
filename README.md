@@ -17,3 +17,5 @@ _Amplia experiencia profesional en Investigación Criminal, manejo, recolección
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aegpgrafologo&show_icons=true&theme=chartreuse-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegpgrafologo&layout=compact)
+
+<img src="https://komarev.com/ghpvc/?username=aegpgrafologo&style=flat-square&color=blue" alt=""/>
