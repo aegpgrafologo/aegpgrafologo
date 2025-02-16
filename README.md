@@ -14,6 +14,6 @@ _Amplia experiencia profesional en Investigación Criminal, manejo, recolección
 
 >Conocimientos en las normas técnicas NTC-ISO/IEC 17020 y NTC-ISO/IEC 17025.
 # Estadisticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aegpgrafologo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aegpgrafologo&show_icons=true&theme=chartreuse-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegpgrafologo&layout=compact)
