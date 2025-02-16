@@ -13,3 +13,5 @@ _Amplia experiencia profesional en Investigación Criminal, manejo, recolección
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 >Conocimientos en las normas técnicas NTC-ISO/IEC 17020 y NTC-ISO/IEC 17025.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegpgrafologo&layout=compact)
